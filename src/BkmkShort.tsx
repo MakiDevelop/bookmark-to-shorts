@@ -157,7 +157,7 @@ const SceneCard: React.FC<{
           position: "absolute",
           top: 50,
           right: 60,
-          fontSize: 20,
+          fontSize: 28,
           color: `${palette.accent}88`,
           fontFamily: "monospace",
           opacity: entrance,
@@ -172,12 +172,12 @@ const SceneCard: React.FC<{
         style={{
           position: "absolute",
           left: 220,
-          top: "22%",
-          right: 100,
-          fontSize: 52,
+          top: "18%",
+          right: 80,
+          fontSize: 72,
           color: "#FAFAFA",
           fontWeight: 700,
-          lineHeight: 1.7,
+          lineHeight: 1.5,
           fontFamily: "system-ui, -apple-system, sans-serif",
         }}
       >
@@ -185,8 +185,8 @@ const SceneCard: React.FC<{
         <span
           style={{
             display: revealedChars < totalChars ? "inline-block" : "none",
-            width: 3,
-            height: 52,
+            width: 4,
+            height: 72,
             backgroundColor: palette.accent,
             marginLeft: 4,
             opacity: Math.sin(frame * 0.15) > 0 ? 1 : 0,
@@ -201,8 +201,8 @@ const SceneCard: React.FC<{
           position: "absolute",
           bottom: 120,
           left: 220,
-          right: 100,
-          fontSize: 22,
+          right: 80,
+          fontSize: 30,
           color: `${palette.glow}`,
           opacity: hintOpacity,
           fontStyle: "italic",

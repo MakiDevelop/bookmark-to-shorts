@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "title": "MoneyPrinterTurbo — AI 一鍵生成高清短視頻",
+    "summary": "利用AI大模型，一键生成高清短视频",
+    "core_insight": "AI 自動化內容生產工具降低創作門檻，標誌著短視頻產業鏈效率革命",
+    "signal_score": 60
+  },
+  {
+    "url": "https://x.com/alchainhust/status/2038944798816505991",
+    "title": "花叔：Claude Code 工程化框架拆解",
+    "summary": "Claude Code 的 auto memory、fork agent、記憶分類（user/feedback/project/reference）拆解",
+    "core_insight": "AI工具實用性核心在於工程化框架設計，非單純依賴模型能力",
+    "signal_score": 69
+  },
+  {
+    "url": "https://www.threads.com/@buildthink.ai/post/DS860MkDxCI",
+    "title": "BuildThink.ai：2026 三層 AI 路由架構",
+    "summary": "三層路由：Tier 1 日常用 Gemma/Llama、Tier 2 邏輯用 DeepSeek/Phi、Tier 3 戰略用 Gemini/GPT",
+    "core_insight": "2026年AI競爭在於聰明架構而非單一模型強度",
+    "signal_score": 73
+  },
+  {
+    "url": "https://www.threads.com/@darks0603/post/DWC_tdhkiSP",
+    "title": "陳盟升：2026 AI 超級個體現象",
+    "summary": "5.5萬科技從業者失業，130萬AI新職缺。行業知識 + AI 實務力 = 新超級個體",
+    "core_insight": "AI 時代的競爭力已從學歷轉移至「行業知識 + AI 實務力」的組合拳，定義了新的超級個體",
+    "signal_score": 58
+  }
+]

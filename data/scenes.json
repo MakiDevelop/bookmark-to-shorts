@@ -1,0 +1,39 @@
+{
+  "title": "AI 不比模型比架構",
+  "topic_url": "https://www.threads.com/@buildthink.ai/post/DS860MkDxCI",
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "2026 年了，還在爭哪個 AI 模型最強？真正的高手早就不這樣玩了。",
+      "visual_hint": "快速閃過各大模型 Logo（GPT、Gemini、Claude、Llama），然後全部碎裂，露出「架構」兩個大字",
+      "duration_estimate_sec": 10,
+      "audio_file": "/Users/maki/GitHub/bookmark-to-shorts/data/audio/scene-1.mp3",
+      "audio_duration_sec": 6.7
+    },
+    {
+      "id": 2,
+      "narration": "問題是：頂級模型又貴又慢，什麼事都丟給它，帳單爆炸，回應還卡。用便宜的？複雜問題又答不好。",
+      "visual_hint": "左邊：帳單數字飛速跳動的動畫；右邊：loading 轉圈圈的沙漏，畫面帶焦慮感",
+      "duration_estimate_sec": 13,
+      "audio_file": "/Users/maki/GitHub/bookmark-to-shorts/data/audio/scene-2.mp3",
+      "audio_duration_sec": 10.44
+    },
+    {
+      "id": 3,
+      "narration": "解法是三層路由架構——日常瑣事交小模型、邏輯推理交中量級、戰略決策才請大神。讓對的模型做對的事。",
+      "visual_hint": "三層金字塔動畫：底層 Tier 1 標示 Gemma/Llama、中層 Tier 2 標示 DeepSeek、頂層 Tier 3 標示 GPT/Gemini，任務從上方掉落自動分流到對應層",
+      "duration_estimate_sec": 15,
+      "audio_file": "/Users/maki/GitHub/bookmark-to-shorts/data/audio/scene-3.mp3",
+      "audio_duration_sec": 9.96
+    },
+    {
+      "id": 4,
+      "narration": "2026 年 AI 的勝負手，不是模型多強，是你的架構多聰明。想學怎麼搭？連結放留言區。",
+      "visual_hint": "三層架構縮小成一個晶片圖示，旁邊浮現「省 70% 成本」「快 3 倍回應」的標籤，最後 CTA 箭頭指向留言區",
+      "duration_estimate_sec": 12,
+      "audio_file": "/Users/maki/GitHub/bookmark-to-shorts/data/audio/scene-4.mp3",
+      "audio_duration_sec": 9.58
+    }
+  ],
+  "total_duration_sec": 36.67
+}

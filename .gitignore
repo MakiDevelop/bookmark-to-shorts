@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+wheels/
+*.egg-info
+.venv
+
+# Node
+node_modules/
+dist/
+
+# Generated data
+data/audio/
+data/out/
+public/scene-*.mp3
+.ruff_cache/
